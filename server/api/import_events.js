@@ -28,6 +28,7 @@ const ICAL_URLS = [
   'https://www.meetup.com/GDG-Cloud-Edmonton/events/ical/', // GDG cloud
   'http://api.lu.ma/ics/get?entity=calendar&id=cal-N0bfLPnGQ1LC86P', // Leetnight
   'http://api.lu.ma/ics/get?entity=calendar&id=cal-0bDgxCEdnFr1W8O', // Edmonton Data Society
+  'https://api2.luma.com/ics/get?entity=calendar&id=cal-DX3cBt59kMNr4tI', // Democamp.
   'https://www.meetup.com/Edmonton-NET-User-Group/events/ical/', // .NET user group
   'https://www.meetup.com/flutter-edmonton/events/ical/', // flutter edmonton
   'https://www.meetup.com/edmonton-wordpress-meetup-group/events/ical/', // wordpress meetup
