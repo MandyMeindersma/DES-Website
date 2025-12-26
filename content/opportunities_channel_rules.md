@@ -25,5 +25,8 @@ Either a post outlining all of these things or a link to a job posting that has 
 ## What is not allowed to be posted:
 
 - Companies that are not hiring Canadians
+- Posts for unpaid work for for-profit companies
 - Multi-Level-Marketing schemes
 - Vague posts that do not describe the work you will be doing or a salary range
+- Posts deemed exploitative by the board, board members, and/or the code of conduct committee
+- Illegal content
