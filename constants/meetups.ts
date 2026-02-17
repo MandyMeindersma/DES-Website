@@ -116,12 +116,13 @@ export const meetups = [
   },
   {
     name: 'Beta City YEG',
+    image: '/events/BetaCityYEG.png',
     to: 'https://betacity.ca',
     description: 'Beta City YEG is Edmonton’s citizen driven meetup with a mandate to connect citizens with opportunities to learn about, provide feedback for, and participate in projects that improve their community through connection and technology. They meet every 4th Wednesday of the month.',
   },
   {
     name: 'NeurAlbertaTech',
-    image: '/events/nat.svg',
+    image: '/events/NeurAlbertaTech.png',
     to: 'https://neuralberta.tech/',
     description: 'NeurAlbertaTech is a nonprofit organization dedicated to fostering a cohesive and diverse neurotechnology ecosystem. Through a range of accessible educational resources, events, and digital platforms, we foster collaboration, skills development, and inclusivity within the neurotech community while supporting groundbreaking projects at every stage.',
   },
