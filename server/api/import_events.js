@@ -72,8 +72,8 @@ const parseICALData = (icalContent) => {
     if (sourceUrl && !description.includes(sourceUrl)) {
       const trimmed = description.trim()
       description = trimmed
-        + (trimmed ? '\n\n' : '')
-        + `${EVENT_LINK_PREFIX} ${sourceUrl}`
+      + (trimmed ? '\n\n' : '')
+      + `${EVENT_LINK_PREFIX} ${sourceUrl}`
     }
 
     // put this in the format of a google calendar event.
